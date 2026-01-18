@@ -2,7 +2,7 @@
 Sistema de gestión para franquicia Bogati
 
 ## Integrantes
-- 
+- Heydi Ortega
 -
 
 ## Tecnologías
